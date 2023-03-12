@@ -1,6 +1,6 @@
 ### Print("olá mundo! Sou Tcarlos.👋") 
 
-Estou atualmente cursando progamação web na instituição(Senac).<br>
+Estou atualmente cursando <n>Progamação web</n> na instituição(Senac).<br>
 Pretendo ainda esse ano entrar em uma faculdade de TI.<br>
 Estou no momento estudando PHP/JAVASCRIPT/SQL.
 <!--
