@@ -1,5 +1,8 @@
-### Hi there 👋
+### Print("olá mundo!👋") 
 
+Estou atualmente cursando progamação web na instituição(Senac).
+Pretendo ainda esse ano entrar em uma faculdade de TI.
+Estou no momento estudando PHP/JAVASCRIPT/SQL.
 <!--
 **tcarlos11/tcarlos11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
