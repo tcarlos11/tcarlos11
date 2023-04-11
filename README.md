@@ -1,8 +1,6 @@
 ### Print("olá mundo! Sou Tcarlos.👋") 
+experiencia com htlm, css, php, js, sql.<br>
 
-Estou atualmente cursando Progamação Web na instituição(Senac).<br>
-Pretendo ainda esse ano entrar em uma faculdade de TI.<br>
-Estou no momento estudando PHP/JAVASCRIPT/SQL.
 <!--
 **tcarlos11/tcarlos11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
