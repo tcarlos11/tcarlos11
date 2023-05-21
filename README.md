@@ -1,10 +1,12 @@
 ### Print("olá mundo! Sou Tcarlos.👋") 
 Estudando python.<br>
+Com curso presencial de 240h em Progamação Web.
 html
 css
 php
 banco de dados SQL
-basico de js
+basico de js<br>
+
 
 <!--
 **tcarlos11/tcarlos11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
