@@ -1,5 +1,10 @@
 ### Print("olá mundo! Sou Tcarlos.👋") 
-experiencia com htlm, css, php, js, sql.<br>
+Estudando python.<br>
+html
+css
+php
+banco de dados SQL
+basico de js
 
 <!--
 **tcarlos11/tcarlos11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
