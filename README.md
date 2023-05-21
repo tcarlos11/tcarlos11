@@ -1,11 +1,7 @@
 ### Print("olá mundo! Sou Tcarlos.👋") 
-Estudando python.<br>
-Com curso presencial de 240h em Progamação Web.
-html
-css
-php
-banco de dados SQL
-basico de js<br>
+Atualmente Estudando python...<br>
+Com curso presencial de 240h em Progamação Web.<br>
+sei: html, css, php, banco de dados SQL e basico de js<br>
 
 
 <!--
