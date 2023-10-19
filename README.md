@@ -1,6 +1,6 @@
 ### Print("olá mundo! Sou Tcarlos.👋") 
 Atualmente Estudando...⚡ <br>
-Com curso presencial de 240h em Progamação Web.<br>
+Programador Web.<br>
 Experiencia com: html, css, php, banco de dados SQL e basico de js e python<br>
 
 
